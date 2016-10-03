@@ -36,7 +36,7 @@
 <td><input type="text" name="txtforgotemail" >
 </tr>
 <tr>
-<input type="submit" value="send">
+<td><input type="submit" value="send">
 </tr>
 </table>
 </form>
